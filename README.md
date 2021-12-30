@@ -2,7 +2,7 @@
 
 HEROKU URL --> https://smartserv-coding-test-q3-q4.herokuapp.com/
 
- Smart Serv Online Coding Test Question 3 and 4 (30-12-2021)
+ SmartServ Online Coding Test Question 3 and 4 (30-12-2021)
  
  Vijay Kashyap Kompella
  
